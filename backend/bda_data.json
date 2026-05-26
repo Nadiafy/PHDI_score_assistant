@@ -1,0 +1,90 @@
+{
+  "carni rosse (bovine, equine)": {
+    "kcal_per_portion": 250.0,
+    "phdi_category": "Moderation (Red_meat)"
+  },
+  "maiale: arrosto, braciole, spezzatino, salsiccia (fettina da 80 g)": {
+    "kcal_per_portion": 290.0,
+    "phdi_category": "Moderation (Red_meat)"
+  },
+  "fast food: hamburger o kebab": {
+    "kcal_per_portion": 300.0,
+    "phdi_category": "Moderation (Red_meat)"
+  },
+  "carne bianca: pollo, tacchino": {
+    "kcal_per_portion": 165.0,
+    "phdi_category": "Moderation (Chicken_meat and substitutes)"
+  },
+  "carne processata: prosciutto, bresaola, fesa, salame": {
+    "kcal_per_portion": 310.0,
+    "phdi_category": "Moderation (Red_meat)"
+  },
+  "pesce bianco, fresco o surgelato (ad es., merluzzo, sogliola)": {
+    "kcal_per_portion": 82.0,
+    "phdi_category": "Optimum (Fish and seafood)"
+  },
+  "pesce azzurro (sgombro)": {
+    "kcal_per_portion": 205.0,
+    "phdi_category": "Optimum (Fish and seafood)"
+  },
+  "acciuga (fresco o in scatola)": {
+    "kcal_per_portion": 131.0,
+    "phdi_category": "Optimum (Fish and seafood)"
+  },
+  "tonno fresco o in scatola": {
+    "kcal_per_portion": 132.0,
+    "phdi_category": "Optimum (Fish and seafood)"
+  },
+  "salmone fresco o affumicato": {
+    "kcal_per_portion": 208.0,
+    "phdi_category": "Optimum (Fish and seafood)"
+  },
+  "frutti di mare e crostacei: gamberi, cozze, mitili": {
+    "kcal_per_portion": 90.0,
+    "phdi_category": "Optimum (Fish and seafood)"
+  },
+  "uova": {
+    "kcal_per_portion": 143.0,
+    "phdi_category": "Optimum (Eggs)"
+  },
+  "pane e farinacei (fette biscottate, crakers) (100 g)": {
+    "kcal_per_portion": 270.0,
+    "phdi_category": "-"
+  },
+  "pane e farinacei (fette biscottate, crakers) integrali (100g)": {
+    "kcal_per_portion": 250.0,
+    "phdi_category": "Adequacy (Whole cereals)"
+  },
+  "corn flakes, cereali di frumento, muesli (30g)": {
+    "kcal_per_portion": 115.0,
+    "phdi_category": "Adequacy (Whole cereals)"
+  },
+  "riso (80g)": {
+    "kcal_per_portion": 290.0,
+    "phdi_category": "-"
+  },
+  "pasta (80g)": {
+    "kcal_per_portion": 280.0,
+    "phdi_category": "-"
+  },
+  "pasta o riso integrale (80g)": {
+    "kcal_per_portion": 270.0,
+    "phdi_category": "Adequacy (Whole cereals)"
+  },
+  "patatine fritte (100g)": {
+    "kcal_per_portion": 312.0,
+    "phdi_category": "Optimum (Tubers and potatoes)"
+  },
+  "patate bollite, pur\u00e8, al forno (100g)": {
+    "kcal_per_portion": 85.0,
+    "phdi_category": "Optimum (Tubers and potatoes)"
+  },
+  "pizza (mezza pizza)": {
+    "kcal_per_portion": 425.0,
+    "phdi_category": "-"
+  },
+  "tavola calda (ad es., arancini, cipolline, bolognesi) (1 pezzo)": {
+    "kcal_per_portion": 250.0,
+    "phdi_category": "-"
+  }
+}

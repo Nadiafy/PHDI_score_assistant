@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+requests
+google-generativeai
+python-dotenv
+aiogram
+sqlalchemy
+asyncpg
+alembic
+python-jose[cryptography]
+passlib[bcrypt]
+google-auth
+greenlet
