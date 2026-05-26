@@ -1,6 +1,6 @@
 import asyncio
 from aiogram import Bot, Dispatcher
-from tg_bot_test import dp
+from telegram_bot import dp
 import os
 from dotenv import load_dotenv
 
